@@ -1,5 +1,5 @@
 # open_with_terminator
-'Have Open in Terminal' use Terminator.
+Have 'Open in Terminal' use Terminator instead of gnome-terminal and replace the gnome-terminal with terminator in general.
 (taken from https://askubuntu.com/questions/692599/how-to-make-open-in-terminal-in-the-right-click-menu-use-terminator-instead-of)
 
 Add the following to your remote code file (.bashrc in Ubuntu):
